@@ -4,7 +4,7 @@ The following SPARQL query would with precision identify datasets about streamfl
 
 TODO:
 
-- [] Add filter for mainstem
+- [ ] Add filter for mainstem
 
 ```sparql
 PREFIX hyf: <https://www.opengis.net/def/schema/hy_features/hyf/>
